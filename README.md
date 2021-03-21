@@ -18,12 +18,13 @@ This ends the year with a -62.6% return with 107,873,900 shares traded.
 ![2017 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png))
 ![2018 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png))
 
-## Results
-The results of other stocks were reviewed to determine which company may be a better investment for Steve's parents. 
-It appears that Enphase Energy Inc (ENPH) has shown to be more consistent from 2017 to 2018 with returns of 129.5% and 81.9%, respectively.
-The shares traded each year are 221,772,100 for 2017 and 607,473,500 for 2018.
+### Better Stock?
+The results of other stocks, as shown above, were reviewed to determine which company may be a better investment for Steve's parents. 
+Almost all stocks had negative returns in 2018.
+*Enphase Energy Inc (ENPH) has shown to be less volatile from 2017 to 2018 with returns of 129.5% and 81.9%, respectively. Their shares traded each year are 221,772,100 for 2017 and 607,473,500 for 2018.
+*Sunrun Inc (RUN) had a increase from 2017 of 5.5% (267,681,300 shares) to 2018 of 84.0% (502,757,100 shares). This could be due to more consumer interest in solar energy.
 
-### Challenges 
+### Challenges  
 Development of the VBA code to determine the returns of the 12 companies included nested loops and arrays, which became a challenge. 
 There were two approaches taken with one utilizing loops that added to a static variable and the next approach utilized separate arrays for volume, start price, and end price.
 Time was evaluated between the two approaches with the array method being much faster in its processing. 
