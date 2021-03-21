@@ -17,11 +17,11 @@ This ends the year with a -62.6% return with 107,873,900 shares traded.
 
 #### 2017 Analysis-Results
 
-![2017 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png))
+![2017 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 #### 2018 Analysis-Results
 
-![2018 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png))
+![2018 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Better Stock?
 The results of other stocks, as shown above, were reviewed to determine which company may be a better investment for Steve's parents. 
@@ -36,11 +36,11 @@ One advantage of the original code was that it was easy to follow/read, the disa
 
 #### Original Code
 
-![Original Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Original_Code_For_Loops.png))
+![Original Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Original_Code_For_Loops.png)
 
 #### Refractored Code
 
-![Refactored Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Refactored_Code_For_Loops.png))
+![Refactored Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Refactored_Code_For_Loops.png)
 
 ### Time
 Time was evaluated between the two approaches with the array method being much faster in its processing. 
@@ -49,11 +49,11 @@ This is an advantage when using arrays, even though the code can become more com
 
 #### 2017 Time Comparison
 
-![2017 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017_B4-After.png))
+![2017 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017_B4-After.png)
 
 #### 2018 Time Comparison
 
-![2018 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018_B4-After.png))
+![2018 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018_B4-After.png)
 
 ### Refactoring Code
 The array method was a refactoring of the original code, which focused on For Loops completing full cycles i.e. 3012 inner loop cycles and 12 main loop cycles. 
