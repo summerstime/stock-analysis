@@ -29,8 +29,8 @@ Development of the VBA code to determine the returns of the 12 companies include
 There were two approaches taken with both utilizing loops; but one had variables for addition and the other approach utilized separate arrays for volume, start price, and end price.
 One advantage of the original code was that it was easy to follow/read, the disadvantage was that it was slow.
 
-![Original Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Original Code For Loops.png))
-![Refactored Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Refactored Code For Loops.png))
+![Original Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Original_Code_For_Loops.png))
+![Refactored Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Refactored_Code_For_Loops.png))
 
 ### Time
 Time was evaluated between the two approaches with the array method being much faster in its processing. 
