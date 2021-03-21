@@ -26,10 +26,10 @@ Almost all stocks had negative returns in 2018.
 
 ### Challenges  
 Development of the VBA code to determine the returns of the 12 companies included nested loops and arrays, which became a challenge. 
-There were two approaches taken with one utilizing loops that added to a static variable and the next approach utilized separate arrays for volume, start price, and end price.
+There were two approaches taken with both utilizing loops; but one had static variables for addition and the other approach utilized separate arrays for volume, start price, and end price.
 Time was evaluated between the two approaches with the array method being much faster in its processing. 
 Time spent in processing one iteration of the code was decreased from approximately 1.40 seconds to approximately 0.25 seconds
-That is a dramatic decrease in processing time which will be much more noticeable for larger datasets.
+That is a dramatic decrease in processing time which will be even more noticeable when processing larger datasets.
 
 ![2017 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017_B4-After.png))
 ![2018 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018_B4-After.png))
