@@ -18,7 +18,7 @@ This ends the year with a -62.6% return with 107,873,900 shares traded.
 ![2017 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png))
 ![2018 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png))
 
-##Results
+## Results
 The results of other stocks were reviewed to determine which company may be a better investment for Steve's parents. 
 It appears that Enphase Energy Inc (ENPH) has shown to be more consistent from 2017 to 2018 with returns of 129.5% and 81.9%, respectively.
 The shares traded each year are 221,772,100 for 2017 and 607,473,500 for 2018.
@@ -26,7 +26,9 @@ The shares traded each year are 221,772,100 for 2017 and 607,473,500 for 2018.
 ### Challenges 
 Development of the VBA code to determine the returns of the 12 companies included nested loops and arrays, which became a challenge. 
 There were two approaches taken with one utilizing loops that added to a static variable and the next approach utilized separate arrays for volume, start price, and end price.
-Time was evaluated between the two approaches with the array method being much faster in its processing.
+Time was evaluated between the two approaches with the array method being much faster in its processing. 
+Time spent in processing one iteration of the code was decreased from approximately 1.40 seconds to approximately 0.25 seconds
+That is a dramatic decrease in processing time which will be much more noticeable for larger datasets.
 
 ![2017 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017_B4-After.png))
 ![2018 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018_B4-After.png))
