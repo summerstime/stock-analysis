@@ -15,10 +15,12 @@ DQ had a good year in 2017 with 199.4% return and 35,796,200 shares traded. The 
 In 2018 the opposite is true. In January the stock started at $62.57, moving up a little bit from December 2017; but ended at $23.40. 
 This ends the year with a -62.6% return with 107,873,900 shares traded.
 
-2017 Analysis-Results
+#### 2017 Analysis-Results
+
 ![2017 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png))
 
-2018 Analysis-Results
+#### 2018 Analysis-Results
+
 ![2018 Analysis-Results](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png))
 
 ### Better Stock?
@@ -32,10 +34,12 @@ Development of the VBA code to determine the returns of the 12 companies include
 There were two approaches taken with both utilizing loops; but one had variables for addition and the other approach utilized separate arrays for volume, start price, and end price.
 One advantage of the original code was that it was easy to follow/read, the disadvantage was that it was slow.
 
-Original Code
+#### Original Code
+
 ![Original Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Original_Code_For_Loops.png))
 
-Refractored Code
+#### Refractored Code
+
 ![Refactored Code](https://github.com/summerstime/stock-Analysis/blob/main/Resources/Refactored_Code_For_Loops.png))
 
 ### Time
@@ -43,10 +47,12 @@ Time was evaluated between the two approaches with the array method being much f
 The elapsed time in processing one iteration of the code was decreased from approximately 1.40 seconds to approximately 0.25 seconds
 This is an advantage when using arrays, even though the code can become more complex. This decrease in processing time will be even more noticeable when evaluating larger datasets.
 
-2017 Time Comparison
+#### 2017 Time Comparison
+
 ![2017 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2017_B4-After.png))
 
-2018 Time Comparison
+#### 2018 Time Comparison
+
 ![2018 Time Comparison](https://github.com/summerstime/stock-Analysis/blob/main/Resources/VBA_Challenge_2018_B4-After.png))
 
 ### Refactoring Code
